@@ -1,21 +1,80 @@
 {
-  "users": [
-
+  "data": [
     {
-      "id":1,
-      "name":"Avneesh"
+      "name": "Avneesh",
+      "baseFile": [
+        {
+          "baseId": "1",
+          "baseTitle": "Untitled Base",
+          "baseColor": "#0F9D1F",
+          "tableData": [
+            {
+              "tableId": 1,
+              "fullName": "",
+              "notice": "",
+              "assignee": "",
+              "status": ""
+            }
+          ]
+        }
+      ]
     }
   ],
-  "base":[
-
+  "isLogged": {
+    "value": true
+  },
+  "userdata": [
     {
-      "id":1,
-      "title":"Untitled Base",
-      "color":"#0F9D1F"
-
+      "id": 1671374405586,
+      "baseTitle": "test 7",
+      "baseColor": "#F7653B",
+      "date": "Sun Dec 18 2022 10:57:59 PM",
+      "tableData": [
+        {
+          "tableId": 1,
+          "fullName": "avneesh",
+          "notice": "files submit",
+          "assignee": "Avneesh",
+          "status": "Todo"
+        },
+        {
+          "tableId": "vO-ZRbmiJj7mcYKIXi2mE",
+          "fullName": "sadsd",
+          "notice": "files submit",
+          "assignee": "sdadsd",
+          "status": "Complete"
+        }
+      ]
+    },
+    {
+      "id": 1671375235224,
+      "baseTitle": "Untitled Base",
+      "baseColor": "#0F9D1F",
+      "date": "Sun Dec 18 2022 8:23:55 PM",
+      "tableData": [
+        {
+          "tableId": 1,
+          "fullName": "avneesh",
+          "notice": "files submit",
+          "assignee": "Avneesh",
+          "status": "Todo"
+        }
+      ]
+    },
+    {
+      "id": 1671385266089,
+      "baseTitle": "Untitled Base",
+      "baseColor": "#0F9D1F",
+      "date": "Sun Dec 18 2022 11:11:06 PM",
+      "tableData": [
+        {
+          "tableId": 1,
+          "fullName": "avneesh",
+          "notice": "files submit",
+          "assignee": "Avneesh",
+          "status": "Todo"
+        }
+      ]
     }
   ]
-
-
-
 }
